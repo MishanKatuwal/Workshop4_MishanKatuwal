@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="task1/task1.csproj" />
+  <Project Path="task2/task2.csproj" Id="02f7e4cd-6e70-4c6d-a499-2cd884b992e7" />
+  <Project Path="task3/task3.csproj" Id="501a1a11-0a08-40d0-bb6c-62c7940af560" />
+  <Project Path="task4/task4.csproj" Id="ddb3ec15-cb6e-4c39-ba66-2480eba40b0e" />
+  <Project Path="task5/task5.csproj" Id="a7a861b4-0406-4f87-aff9-d7db9b370a03" />
+  <Project Path="task6/task6.csproj" Id="1b665fa7-3f1b-4da2-ab12-a5c484682756" />
+</Solution>
